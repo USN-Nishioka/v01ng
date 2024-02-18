@@ -310,11 +310,6 @@ export default function Component() {
 
           </div>
         </main>
-
-        {/* フッターサンプル */}
-        <footer className="border-t pt-4 mt-8">
-          <p className="text-sm">Created by USN-Nishioka - MIT License</p>
-        </footer>
       </div>
   )
 }
